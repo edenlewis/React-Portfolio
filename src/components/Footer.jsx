@@ -1,8 +1,8 @@
 function Footer(){
     return(
         <footer>
-            <span>Eden Lewis</span>
-            <span>Created 2023</span>
+            <span className="foot">Eden Lewis</span>
+            <span className="foot2">Created 2023</span>
         </footer>
     )
 }
